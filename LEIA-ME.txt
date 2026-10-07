@@ -1,0 +1,7 @@
+SITE LOURÊNÇO & HEMILLY ❤️
+
+1. Abra o arquivo index.html para ver o site.
+2. Para usar a música "Inesperado - Jorge & Mateus", coloque um arquivo de áudio
+   chamado exatamente "inesperado.mp3" nesta mesma pasta.
+3. O navegador normalmente só permite a música depois de um toque/clique, por isso
+   ela começa quando a pessoa aperta "Começar nossa história".
